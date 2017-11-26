@@ -1,0 +1,70 @@
+c:\users\игорь\documents\visual studio 2012\Projects\ne znau\ne znau\bin\Debug\ne znau.exe.config
+c:\users\игорь\documents\visual studio 2012\Projects\ne znau\ne znau\bin\Debug\ne znau.exe
+c:\users\игорь\documents\visual studio 2012\Projects\ne znau\ne znau\bin\Debug\ne znau.pdb
+c:\users\игорь\documents\visual studio 2012\Projects\ne znau\ne znau\obj\Debug\ne znau.csprojResolveAssemblyReference.cache
+c:\users\игорь\documents\visual studio 2012\Projects\ne znau\ne znau\obj\Debug\ne_znau.Form1.resources
+c:\users\игорь\documents\visual studio 2012\Projects\ne znau\ne znau\obj\Debug\ne_znau.Properties.Resources.resources
+c:\users\игорь\documents\visual studio 2012\Projects\ne znau\ne znau\obj\Debug\ne znau.csproj.GenerateResource.Cache
+c:\users\игорь\documents\visual studio 2012\Projects\ne znau\ne znau\obj\Debug\ne znau.exe
+c:\users\игорь\documents\visual studio 2012\Projects\ne znau\ne znau\obj\Debug\ne znau.pdb
+C:\Users\Игорь\Documents\Visual Studio 2012\Projects\ne znau\ne znau\obj\Debug\ne_znau.Form2.resources
+C:\Users\Игорь\Documents\Visual Studio 2012\Projects\ne znau\ne znau\obj\Debug\ne_znau.Form3.resources
+C:\Users\Игорь\Desktop\ne znau\ne znau\bin\Debug\ne znau.exe.config
+C:\Users\Игорь\Desktop\ne znau\ne znau\obj\Debug\ne znau.exe
+C:\Users\Игорь\Desktop\ne znau\ne znau\obj\Debug\ne znau.pdb
+C:\Users\Игорь\Desktop\ne znau\ne znau\bin\Debug\ne znau.exe
+C:\Users\Игорь\Desktop\ne znau\ne znau\bin\Debug\ne znau.pdb
+C:\Users\Игорь\Desktop\ne znau\ne znau\bin\Debug\Common.Logging.dll
+C:\Users\Игорь\Desktop\ne znau\ne znau\bin\Debug\CSharp.GitHub.dll
+C:\Users\Игорь\Desktop\ne znau\ne znau\bin\Debug\Spring.Rest.dll
+C:\Users\Игорь\Desktop\ne znau\ne znau\bin\Debug\Spring.Social.Core.dll
+C:\Users\Игорь\Desktop\ne znau\ne znau\bin\Debug\Spring.Rest.pdb
+C:\Users\Игорь\Desktop\ne znau\ne znau\bin\Debug\Spring.Rest.xml
+C:\Users\Игорь\Desktop\ne znau\ne znau\bin\Debug\Spring.Social.Core.pdb
+C:\Users\Игорь\Desktop\ne znau\ne znau\bin\Debug\Spring.Social.Core.xml
+C:\Users\Игорь\Desktop\ne znau\ne znau\obj\Debug\ne znau.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\Desktop\ne znau\ne znau\obj\Debug\ne_znau.Form1.resources
+C:\Users\Игорь\Desktop\ne znau\ne znau\obj\Debug\ne_znau.Form2.resources
+C:\Users\Игорь\Desktop\ne znau\ne znau\obj\Debug\ne_znau.Form3.resources
+C:\Users\Игорь\Desktop\ne znau\ne znau\obj\Debug\ne_znau.Properties.Resources.resources
+C:\Users\Игорь\Desktop\ne znau\ne znau\obj\Debug\ne znau.csproj.GenerateResource.Cache
+C:\Users\Игорь\source\repos\Hi\пеееее\липон\ne znau\bin\Debug\ne znau.exe.config
+C:\Users\Игорь\source\repos\Hi\пеееее\липон\ne znau\bin\Debug\ne znau.exe
+C:\Users\Игорь\source\repos\Hi\пеееее\липон\ne znau\bin\Debug\ne znau.pdb
+C:\Users\Игорь\source\repos\Hi\пеееее\липон\ne znau\bin\Debug\Common.Logging.dll
+C:\Users\Игорь\source\repos\Hi\пеееее\липон\ne znau\bin\Debug\CSharp.GitHub.dll
+C:\Users\Игорь\source\repos\Hi\пеееее\липон\ne znau\bin\Debug\Spring.Rest.dll
+C:\Users\Игорь\source\repos\Hi\пеееее\липон\ne znau\bin\Debug\Spring.Social.Core.dll
+C:\Users\Игорь\source\repos\Hi\пеееее\липон\ne znau\bin\Debug\Spring.Rest.pdb
+C:\Users\Игорь\source\repos\Hi\пеееее\липон\ne znau\bin\Debug\Spring.Rest.xml
+C:\Users\Игорь\source\repos\Hi\пеееее\липон\ne znau\bin\Debug\Spring.Social.Core.pdb
+C:\Users\Игорь\source\repos\Hi\пеееее\липон\ne znau\bin\Debug\Spring.Social.Core.xml
+C:\Users\Игорь\source\repos\Hi\пеееее\липон\ne znau\obj\Debug\ne znau.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\source\repos\Hi\пеееее\липон\ne znau\obj\Debug\ne_znau.Form1.resources
+C:\Users\Игорь\source\repos\Hi\пеееее\липон\ne znau\obj\Debug\ne_znau.Form2.resources
+C:\Users\Игорь\source\repos\Hi\пеееее\липон\ne znau\obj\Debug\ne_znau.Form3.resources
+C:\Users\Игорь\source\repos\Hi\пеееее\липон\ne znau\obj\Debug\ne_znau.Properties.Resources.resources
+C:\Users\Игорь\source\repos\Hi\пеееее\липон\ne znau\obj\Debug\ne znau.csproj.GenerateResource.Cache
+C:\Users\Игорь\source\repos\Hi\пеееее\липон\ne znau\obj\Debug\ne znau.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\source\repos\Hi\пеееее\липон\ne znau\obj\Debug\ne znau.exe
+C:\Users\Игорь\source\repos\Hi\пеееее\липон\ne znau\obj\Debug\ne znau.pdb
+C:\Users\Игорь\source\repos\Hi\пеееее\липон2\липон\ne znau\bin\Debug\ne znau.exe.config
+C:\Users\Игорь\source\repos\Hi\пеееее\липон2\липон\ne znau\bin\Debug\ne znau.exe
+C:\Users\Игорь\source\repos\Hi\пеееее\липон2\липон\ne znau\bin\Debug\ne znau.pdb
+C:\Users\Игорь\source\repos\Hi\пеееее\липон2\липон\ne znau\bin\Debug\Common.Logging.dll
+C:\Users\Игорь\source\repos\Hi\пеееее\липон2\липон\ne znau\bin\Debug\CSharp.GitHub.dll
+C:\Users\Игорь\source\repos\Hi\пеееее\липон2\липон\ne znau\bin\Debug\Spring.Rest.dll
+C:\Users\Игорь\source\repos\Hi\пеееее\липон2\липон\ne znau\bin\Debug\Spring.Social.Core.dll
+C:\Users\Игорь\source\repos\Hi\пеееее\липон2\липон\ne znau\bin\Debug\Spring.Rest.pdb
+C:\Users\Игорь\source\repos\Hi\пеееее\липон2\липон\ne znau\bin\Debug\Spring.Rest.xml
+C:\Users\Игорь\source\repos\Hi\пеееее\липон2\липон\ne znau\bin\Debug\Spring.Social.Core.pdb
+C:\Users\Игорь\source\repos\Hi\пеееее\липон2\липон\ne znau\bin\Debug\Spring.Social.Core.xml
+C:\Users\Игорь\source\repos\Hi\пеееее\липон2\липон\ne znau\obj\Debug\ne znau.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\source\repos\Hi\пеееее\липон2\липон\ne znau\obj\Debug\ne_znau.Form1.resources
+C:\Users\Игорь\source\repos\Hi\пеееее\липон2\липон\ne znau\obj\Debug\ne_znau.Form2.resources
+C:\Users\Игорь\source\repos\Hi\пеееее\липон2\липон\ne znau\obj\Debug\ne_znau.Form3.resources
+C:\Users\Игорь\source\repos\Hi\пеееее\липон2\липон\ne znau\obj\Debug\ne_znau.Properties.Resources.resources
+C:\Users\Игорь\source\repos\Hi\пеееее\липон2\липон\ne znau\obj\Debug\ne znau.csproj.GenerateResource.Cache
+C:\Users\Игорь\source\repos\Hi\пеееее\липон2\липон\ne znau\obj\Debug\ne znau.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\source\repos\Hi\пеееее\липон2\липон\ne znau\obj\Debug\ne znau.exe
+C:\Users\Игорь\source\repos\Hi\пеееее\липон2\липон\ne znau\obj\Debug\ne znau.pdb

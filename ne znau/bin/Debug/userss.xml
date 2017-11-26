@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<NewDataSet>
+ <users>
+  <id></id>
+  <Login></Login>
+<Password></Password>
+
+<srok obuchenya>
+
+<s></s>
+
+<po></po>
+<years></years>
+
+</srok obuchenya>
+  <prikaz o zacislenii></prikaz o zacislenii>
+<napravlenost></napravlenost>
+<forma obuchenia></forma obuchenia>
+<facultet></facultet>
+ <kafedra></kafedra>
+<naychniy rykovoditel>
+<ychenai stepen></ychenai stepen>
+<ychenai zvanie></ychenai zvanie>
+<FIO></FIO>
+</naychniy rykovoditel>
+<tema dissertacii></tema dissertacii>
+<sername></sername>
+<name></name>
+<otchestvo></otchestvo>
+<Login></Login>
+<Password></Password>
+<PodtvPassword></PodtvPassword>
+
+
+//ВСЕ ДАННЫЕ с регестрации потом дманные с формы 3
+ 
+<Nauchnay deytelnost>
+
+
+<spisak nauchnsh trudov ></spisak nauchnsh trudov>
+<nauchnie raboty></nauchnie raboty>
+<izorbretenya></izorbretenya>
+<Poleznie modeli></Poleznie modeli>
+<Programmi EVM></Programmi EVM>
+<ychebno-metodicheskie raboti></ychebno-metodicheskie raboti>
+<naychnie konferencii></naychnie konferencii>
+<diplomi i gramoti></diplomi i gramoti>
+
+
+</Nauchnay deytelnost>
+
+
+
+
+<Obrazovatelnai deitelnost>
+ <></>
+<></>
+<></>
+<></>
+<></>
+<></>
+<></>
+<></>
+<></>
+<></>
+<></>
+<></>
+
+
+<Obrazovatelnai deitelnost/>
+
+<Obshestvennai deitelnost>
+ <></>
+<></>
+<></>
+<></>
+<></>
+<></>
+<></>
+<></>
+<></>
+<></>
+<></>
+<></>
+
+
+<Obshestvennai deitelnost/>
+
+
+<Ocenochnie sredstva>
+ <></>
+<></>
+<></>
+<></>
+<></>
+<></>
+<></>
+<></>
+<></>
+<></>
+<></>
+<></>
+
+
+<Ocenochnie sredstva/>
+ </users>
+</NewDataSet>
