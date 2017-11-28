@@ -174,7 +174,7 @@ Persist Security Info=False;";
             {
 
                 MessageBox.Show(ex.Message, "Ошибка!");
-
+                MessageBox.Show("Заполните все поля");
             }
 
 
