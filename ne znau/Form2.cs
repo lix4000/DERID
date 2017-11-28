@@ -169,11 +169,11 @@ Persist Security Info=False;";
                 Connection.Close();
             }
 
-              catch
+              catch (Exception ex)
 
             {
 
-                MessageBox.Show("Ошибка!");
+                MessageBox.Show(ex.Message, "Ошибка!");
 
             }
 
